@@ -36,11 +36,9 @@ You are tasked with creating a simple asset management system using Hyperledger 
 
 ### Part 1: Setting Up Hyperledger Fabric Environment
 
-1. **Create a New GitHub Repository**
-   - Create a new repository named `asset-management-hyperledger`.
-   - Initialize it with a README file and a `.gitignore` for Docker.
 
-2. **Configure GitHub Codespaces**
+
+1. **Configure GitHub Codespaces**
    - Open your repository in GitHub Codespaces.
    - Install the required tools and dependencies:
      - Docker and Docker Compose
@@ -61,7 +59,7 @@ You are tasked with creating a simple asset management system using Hyperledger 
    }
    ```
 
-3. **Set Up Hyperledger Fabric Samples**
+2. **Set Up Hyperledger Fabric Samples**
    - Clone the Hyperledger Fabric Samples repository inside your Codespace:
      ```bash
      git clone https://github.com/hyperledger/fabric-samples.git
